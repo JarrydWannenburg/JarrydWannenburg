@@ -18,7 +18,9 @@ These calculators (LightingCalc, SupplementalCalc, and TargetCalc) use a geoloca
 **Description:** LightingCalc was created to determine how much electricity is required to reach the target DLI every single day of the year. To do so, a lighting system would need to be designed to provide enough light on even the darkest day of the year. On the Electricity Cost page, users will view a dashboard that calculates lighting costs at an annual, monthly, and weekly view.
 
 **General Skills:** APIs, Data Transformation, Data Analytics, Data Visualization, Web App Development
+
 **Specific Skills:** R (main libraries: shiny, dyplr, ggplot2, lubridate, tidygeocoder)
+
 
 #### SupplementalCalc
 **Background:** After realizing the unrealistic assumption made in LightingCalc, I set out to build a new calculator that relaxed that assumption. The result was a web application that allows a user to specify what percent of the year they'd like to reach their target DLI and how many hours they light their greenhouse. I also rebuilt the dashboard to calculate demand charges and visualize a scatterplot of the amount of sunlight coming into the greenhouse and how much supplemental light is needed. SupplementalCalc is hosted on ShinyApps and is available [here](https://uga-lighting-calc.shinyapps.io/supplementalcalc/).
@@ -27,6 +29,7 @@ These calculators (LightingCalc, SupplementalCalc, and TargetCalc) use a geoloca
 
 **General Skills:** APIs, Data Transformation, Data Analytics, Data Visualization, Interactive Web App Development
 **Specific Skills:** R (main libraries: shiny, dyplr, ggplot2, lubridate, tidygeocoder)
+
 
 #### TargetCalc
 **Background:**  
