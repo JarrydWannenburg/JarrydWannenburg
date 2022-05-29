@@ -7,17 +7,21 @@ A repository consisting of work completed through my part time graduate assistan
 ## Data Analytics Portfolio
 
 ### Google Data Analytics Capstone 1
-[![](https://img.shields.io/badge/ShinyApps.io-Open_Presentation-3686d3?logo=r)](https://uga-lighting-calc.shinyapps.io/TargetCalc/)
-[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/TargetCalc)
+[![](https://img.shields.io/badge/Google_Drive-Open_Report-4285F4?logo=Google_Drive)]()
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)]()
+[![](https://img.shields.io/badge/YouTube-Watch_Presentation-FF0000?logo=YouTube)]()
 
-**Background:**
+**General Skills:** Data Analytics, Data Visualization, Big Data
 
+**Specific Skills:** R (main libraries: tidyr, dyplr, ggplot2, lubridate), Tableau, Powerpoint
 
+**Background:** Placeholder
 
-### Google Data Analytics Capstone 2
+**Description:** Placeholder
 
 
 ## Data Science Portfolio
+
 
 ## Web Application Development Portfolio
 During my time in grad school, I held a position with the MIS department at the Terry School of Business and built out several web applications (some of which have been made public and are available below).
