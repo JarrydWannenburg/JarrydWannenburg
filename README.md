@@ -1,5 +1,7 @@
 # Introduction (NOTE: Portfolio is currently under construction)
 Hi! I'm Jarryd. I recently graduated from the University of Georgia (2018-2022) with a certificate in Financial Technologies, a BBA in Management Information Systems (MIS) with an emphasis in Data Analytics, and a MS in Business Analytics. Starting September 2022, I'll be working with EY as a Financial Services Technology Consultant. 
+
+## Personal Goal
 Within the next 3-5 years (2025-2027), I want to have built a comprehensive portfolio of projects, completed my MBA, and be leading teams focused on driving decisions using data! Wish me luck!
 
 # Portfolio Directory
