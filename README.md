@@ -13,7 +13,7 @@ A repository consisting of work completed through my part time graduate assistan
     * [TargetCalc](https://github.com/JarrydWannenburg#targetcalc)
 
 ## Data Analytics
-### Google Data Analytics Capstone 1
+### Google Data Analytics Capstone 1 (in progress)
 [![](https://img.shields.io/badge/Google_Drive-Read_Report-4285F4?logo=logo)]()
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)]()
 [![](https://img.shields.io/badge/YouTube-Watch_Presentation-FF0000?logo=YouTube)]()
@@ -22,9 +22,7 @@ A repository consisting of work completed through my part time graduate assistan
 
 **Skills:** R (tidyr, dyplr, ggplot2, lubridate), Tableau, Powerpoint
 
-**Background:** Placeholder
-
-**Description:** In this case study, I used bike sharing data over the last 12 months in Chicago to analyze and differentiate two user plans. I was then able to develop a series of visuals and recommendations based on those findings.
+**Description:** In this case study, I used bike sharing data spanning the last 12 months in Chicago to analyze and differentiate two user plans. I was then able to develop a series of visuals and recommendations based on those findings.
 
 
 ## Data Science
@@ -33,8 +31,6 @@ A repository consisting of work completed through my part time graduate assistan
 **Concepts:**
 
 **Skills:**
-
-**Background:**
 
 **Description:**
 
