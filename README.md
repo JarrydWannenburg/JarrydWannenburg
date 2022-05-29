@@ -13,7 +13,7 @@ These calculators (LightingCalc, SupplementalCalc, and TargetCalc) use a geoloca
 
 ### LightingCalc
 [![](https://img.shields.io/badge/ShinyApps.io-View_Web_App-3E92F1?logo=r)](https://uga-lighting-calc.shinyapps.io/lightingcalc/)
-[![](https://img.shields.io/badge/ShinyApps.io-View_GitHub-3E92F1?logo=GitHub)](https://github.com/JarrydWannenburg/LightingCalc)
+[![](https://img.shields.io/badge/ShinyApps.io-View_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/LightingCalc)
 
 **Background:** When I started my assistantship,the two previous students who held this position over the last two years had developed LightingCalc. My first task was to tweak the UI and server code to display values at a weekly view as opposed to a monthly view and add in demand charges. After familiarizing myself with LightingCalc, I discovered that it was making an unrealistic assumption: growers want to provide enough supplemental light to reach their target DLI _every single day of the year_. Because of that unrealistic assumption, I decided not to calculate demand charges and begin working on two new calculators (SupplementalCalc and TargetCalc).
 
@@ -25,7 +25,8 @@ These calculators (LightingCalc, SupplementalCalc, and TargetCalc) use a geoloca
 
 
 ### SupplementalCalc
-[![](https://img.shields.io/badge/ShinyApps.io-View_Web_App-3E92F1?logo=r)](https://uga-lighting-calc.shinyapps.io/supplementalcalc/) [![](https://img.shields.io/badge/ShinyApps.io-View_GitHub-3E92F1?logo=GitHub)](https://github.com/JarrydWannenburg/SupplementalCalc)
+[![](https://img.shields.io/badge/ShinyApps.io-View_Web_App-3E92F1?logo=r)](https://uga-lighting-calc.shinyapps.io/supplementalcalc/) 
+[![](https://img.shields.io/badge/ShinyApps.io-View_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/SupplementalCalc)
 
 **Background:** After realizing the unrealistic assumption made in LightingCalc, I set out to build a new calculator that relaxed that assumption. The result was a web application that allows a user to specify what percent of the year they'd like to reach their target DLI and how many hours they light their greenhouse. I also rebuilt the dashboard to calculate demand charges and visualize a scatterplot of the amount of sunlight coming into the greenhouse and how much supplemental light is needed. SupplementalCalc is hosted on ShinyApps and is available [here](https://uga-lighting-calc.shinyapps.io/supplementalcalc/).
 
@@ -36,7 +37,8 @@ These calculators (LightingCalc, SupplementalCalc, and TargetCalc) use a geoloca
 
 
 ### TargetCalc
-[![](https://img.shields.io/badge/ShinyApps.io-View_Web_App-3E92F1?logo=r)](https://uga-lighting-calc.shinyapps.io/TargetCalc/)
+[![](https://img.shields.io/badge/ShinyApps.io-View_Web_App-3686d3?logo=r)](https://uga-lighting-calc.shinyapps.io/TargetCalc/)
+[![](https://img.shields.io/badge/ShinyApps.io-View_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/TargetCalc)
 
 **Background:**  
 
