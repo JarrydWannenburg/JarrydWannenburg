@@ -24,7 +24,7 @@ A repository consisting of work completed through my part time graduate assistan
 
 **Background:** Placeholder
 
-**Description:** Placeholder
+**Description:** In this case study, I used bike sharing data over the last 12 months in Chicago to analyze and differentiate two user plans. I was then able to develop a series of visuals and recommendations based on those findings.
 
 
 ## Data Science
