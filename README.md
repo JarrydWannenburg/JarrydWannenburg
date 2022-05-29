@@ -6,13 +6,13 @@ A repository consisting of work completed through my part time graduate assistan
 * [Data Analytics](https://github.com/JarrydWannenburg#data-analytics)
     * [Google Data Analytics Capstone 1](https://github.com/JarrydWannenburg#google-data-analytics-capstone-1)
 * [Data Science](https://github.com/JarrydWannenburg#data-science)
+    * [Project Coming soon](https://github.com/JarrydWannenburg#ds-project-1)
 * [Web Application Development](https://github.com/JarrydWannenburg#web-application-development)
     * [LightingCalc](https://github.com/JarrydWannenburg#lightingcalc)
     * [SupplementalCalc](https://github.com/JarrydWannenburg#supplementalcalc)
     * [TargetCalc](https://github.com/JarrydWannenburg#targetcalc)
 
 ## Data Analytics
-
 ### Google Data Analytics Capstone 1
 [![](https://img.shields.io/badge/Google_Drive-Read_Report-4285F4?logo=logo)]()
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)]()
@@ -28,6 +28,15 @@ A repository consisting of work completed through my part time graduate assistan
 
 
 ## Data Science
+### DS Project 1
+
+**Concepts:**
+
+**Skills:**
+
+**Background:**
+
+**Description:**
 
 
 ## Web Application Development
