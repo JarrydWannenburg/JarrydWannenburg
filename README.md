@@ -3,27 +3,34 @@ Hi! I'm Jarryd. I recently graduated from the University of Georgia (2018-2022) 
 
 # Portfolio Directory
 A repository consisting of work completed through my part time graduate assistantship, personal projects, and online courses. These projects will primarily be in R and Python though visualization may be done using Tableau, Data Studio, or PowerBI.
+* [Data Analytics](https://github.com/JarrydWannenburg/JarrydWannenburg#data-analytics)
+    * [Google Data Analytics Capstone 1](https://github.com/JarrydWannenburg/JarrydWannenburg#google-data-analytics-capstone-1)
+* [Data Science](https://github.com/JarrydWannenburg/JarrydWannenburg#data-science)
+* [Web Application Development](https://github.com/JarrydWannenburg/JarrydWannenburg#web-application-development)
+    * [LightingCalc](https://github.com/JarrydWannenburg/JarrydWannenburg#lightingcalc)
+    * [SupplementalCalc](https://github.com/JarrydWannenburg/JarrydWannenburg#supplementalcalc)
+    * [TargetCalc](https://github.com/JarrydWannenburg/JarrydWannenburg#targetcalc)
 
-## Data Analytics Portfolio
+## Data Analytics
 
 ### Google Data Analytics Capstone 1
-[![](https://img.shields.io/badge/Google_Drive-Open_Report-4285F4?logo=logo)]()
+[![](https://img.shields.io/badge/Google_Drive-Read_Report-4285F4?logo=logo)]()
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)]()
 [![](https://img.shields.io/badge/YouTube-Watch_Presentation-FF0000?logo=YouTube)]()
 
-**General Skills:** Data Analytics, Data Visualization, Big Data
+**Concepts:** Data Analytics, Data Visualization, Big Data
 
-**Specific Skills:** R (main libraries: tidyr, dyplr, ggplot2, lubridate), Tableau, Powerpoint
+**Skills:** R (tidyr, dyplr, ggplot2, lubridate), Tableau, Powerpoint
 
 **Background:** Placeholder
 
 **Description:** Placeholder
 
 
-## Data Science Portfolio
+## Data Science
 
 
-## Web Application Development Portfolio
+## Web Application Development
 During my time in grad school, I held a position with the MIS department at the Terry School of Business and built out several web applications (some of which have been made public and are available below).
 
 These web applications were developed for greenhouse growers as part of [Project LAMP](https://www.hortlamp.org/outreach/determine-lighting/), lighting approaches to maximize profits. Our goal is to maximize controlled environment agriculture (CEA) grower profits through improved lighting systems and support tools.
@@ -35,9 +42,9 @@ These calculators (LightingCalc, SupplementalCalc, and TargetCalc) use a geoloca
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/LightingCalc)
 [![](https://img.shields.io/badge/YouTube-Watch_User_Walkthrough-FF0000?logo=YouTube)](https://youtu.be/eSmopYUls30)
 
-**General Skills:** APIs, Data Transformation, Data Analytics, Data Visualization, Web App Development
+**Concepts:** APIs, Data Transformation, Data Analytics, Data Visualization, Web App Development
 
-**Specific Skills:** R (main libraries: shiny, dyplr, ggplot2, lubridate, tidygeocoder)
+**Skills:** R (shiny, dyplr, ggplot2, lubridate, tidygeocoder)
 
 **Background:** When I started my assistantship,the two previous students who held this position over the last two years had developed LightingCalc. My first task was to tweak the UI and server code to display values at a weekly view as opposed to a monthly view and add in demand charges. After familiarizing myself with LightingCalc, I discovered that it was making an unrealistic assumption: growers want to provide enough supplemental light to reach their target DLI _every single day of the year_. Because of that unrealistic assumption, I decided not to calculate demand charges and begin working on two new calculators (SupplementalCalc and TargetCalc).
 
@@ -49,9 +56,9 @@ These calculators (LightingCalc, SupplementalCalc, and TargetCalc) use a geoloca
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/SupplementalCalc)
 [![](https://img.shields.io/badge/YouTube-Watch_User_Walkthrough-FF0000?logo=YouTube)](https://youtu.be/TTYsi2jaqUw)
 
-**General Skills:** APIs, Data Transformation, Data Analytics, Data Visualization, Interactive Web App Development
+**Concepts:** APIs, Data Transformation, Data Analytics, Data Visualization, Interactive Web App Development
 
-**Specific Skills:** R (main libraries: shiny, dyplr, ggplot2, lubridate, tidygeocoder)
+**Skills:** R (shiny, dyplr, ggplot2, lubridate, tidygeocoder)
 
 **Background:** After realizing the unrealistic assumption made in LightingCalc, I set out to build a new calculator that relaxed that assumption. The result was a web application that allows a user to specify what percent of the year they'd like to reach their target DLI and how many hours they light their greenhouse. I also rebuilt the dashboard to calculate demand charges and visualize a scatterplot of the amount of sunlight coming into the greenhouse and how much supplemental light is needed.
 
@@ -63,9 +70,9 @@ These calculators (LightingCalc, SupplementalCalc, and TargetCalc) use a geoloca
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/TargetCalc)
 [![](https://img.shields.io/badge/YouTube-Watch_User_Walkthrough-FF0000?logo=YouTube)](https://youtu.be/0VDcWBuC4rY)
 
-**General Skills:** APIs, Data Transformation, Data Analytics, Data Visualization, Web App Development
+**Concepts:** APIs, Data Transformation, Data Analytics, Data Visualization, Web App Development
 
-**Specific Skills:** R (main libraries: shiny, dyplr, ggplot2, lubridate, tidygeocoder)
+**Skills:** R (shiny, dyplr, ggplot2, lubridate, tidygeocoder)
 
 **Background:** Once I had finished building SupplementalCalc, the LAMP agricultral team came to me with a request to build a third calculator that would output what percent of the year a greenhouse grower could expect to reach their target DLI given inputs describing a lighting system currently in place. 
 
