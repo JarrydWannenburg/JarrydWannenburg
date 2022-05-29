@@ -1,5 +1,6 @@
 # Introduction (NOTE: Portfolio is currently under construction)
-Hi! I'm Jarryd. I recently graduated from the University of Georgia (2018-2022) with a certificate in Financial Technologies, a BBA in Management Information Systems (MIS) with an emphasis in Data Analytics, and a MS in Business Analytics. 
+Hi! I'm Jarryd. I recently graduated from the University of Georgia (2018-2022) with a certificate in Financial Technologies, a BBA in Management Information Systems (MIS) with an emphasis in Data Analytics, and a MS in Business Analytics. Starting September 2022, I'll be working with EY as a Financial Services Technology Consultant. 
+Within the next 3-5 years (2025-2027), I want to have built a comprehensive portfolio of projects, completed my MBA, and be leading teams focused on driving decisions using data! Wish me luck!
 
 # Portfolio Directory
 A repository consisting of work completed through my part time graduate assistantship, personal projects, and online courses. These projects will primarily be in R and Python though visualization may be done using Tableau, Data Studio, or PowerBI.
@@ -14,8 +15,8 @@ A repository consisting of work completed through my part time graduate assistan
 
 ## Data Analytics
 ### Google Data Analytics Capstone 1 (in progress)
-[![](https://img.shields.io/badge/Google_Drive-Read_Report-4285F4?logo=logo)]()
-[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)]()
+[![](https://img.shields.io/badge/GitHub-Read_Report-4285F4?logo=GitHub)](https://github.com/JarrydWannenburg/Divvy-Trip-Data-Google-Analytics-Capstone/blob/main/Report.md)
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/Divvy-Trip-Data-Google-Analytics-Capstone)
 [![](https://img.shields.io/badge/YouTube-Watch_Presentation-FF0000?logo=YouTube)]()
 
 **Concepts:** Data Analytics, Data Visualization, Big Data
