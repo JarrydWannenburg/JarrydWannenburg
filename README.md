@@ -3,13 +3,13 @@ Hi! I'm Jarryd. I recently graduated from the University of Georgia (2018-2022) 
 
 # Portfolio Directory
 A repository consisting of work completed through my part time graduate assistantship, personal projects, and online courses. These projects will primarily be in R and Python though visualization may be done using Tableau, Data Studio, or PowerBI.
-* [Data Analytics](https://github.com/JarrydWannenburg/JarrydWannenburg#data-analytics)
-    * [Google Data Analytics Capstone 1](https://github.com/JarrydWannenburg/JarrydWannenburg#google-data-analytics-capstone-1)
-* [Data Science](https://github.com/JarrydWannenburg/JarrydWannenburg#data-science)
-* [Web Application Development](https://github.com/JarrydWannenburg/JarrydWannenburg#web-application-development)
-    * [LightingCalc](https://github.com/JarrydWannenburg/JarrydWannenburg#lightingcalc)
-    * [SupplementalCalc](https://github.com/JarrydWannenburg/JarrydWannenburg#supplementalcalc)
-    * [TargetCalc](https://github.com/JarrydWannenburg/JarrydWannenburg#targetcalc)
+* [Data Analytics](https://github.com/JarrydWannenburg#data-analytics)
+    * [Google Data Analytics Capstone 1](https://github.com/JarrydWannenburg#google-data-analytics-capstone-1)
+* [Data Science](https://github.com/JarrydWannenburg#data-science)
+* [Web Application Development](https://github.com/JarrydWannenburg#web-application-development)
+    * [LightingCalc](https://github.com/JarrydWannenburg#lightingcalc)
+    * [SupplementalCalc](https://github.com/JarrydWannenburg#supplementalcalc)
+    * [TargetCalc](https://github.com/JarrydWannenburg#targetcalc)
 
 ## Data Analytics
 
