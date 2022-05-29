@@ -7,7 +7,7 @@ A repository consisting of work completed through my part time graduate assistan
 ## Data Analytics Portfolio
 
 ### Google Data Analytics Capstone 1
-[![](https://img.shields.io/badge/Google_Drive-Open_Report-4285F4?logo=Google Drive)]()
+[![](https://img.shields.io/badge/Google_Drive-Open_Report-4285F4?logo=Google_drive)]()
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)]()
 [![](https://img.shields.io/badge/YouTube-Watch_Presentation-FF0000?logo=YouTube)]()
 
