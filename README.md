@@ -1,4 +1,4 @@
-# Introduction
+# Introduction (NOTE: Portfolio is currently under construction)
 Hi! I'm Jarryd. I recently graduated from the University of Georgia (2018-2022) with a certificate in Financial Technologies, a BBA in Management Information Systems (MIS) with an emphasis in Data Analytics, and a MS in Business Analytics. 
 
 # Portfolio Directory
@@ -57,11 +57,7 @@ These calculators (LightingCalc, SupplementalCalc, and TargetCalc) use a geoloca
 [![](https://img.shields.io/badge/ShinyApps.io-Open_Web_App-3686d3?logo=r)](https://uga-lighting-calc.shinyapps.io/TargetCalc/)
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/TargetCalc)
 [![](https://img.shields.io/badge/YouTube-Watch_User_Walkthrough-FF0000?logo=YouTube)](https://youtu.be/0VDcWBuC4rY)
-
-**Background:**  
-
-**Description:** 
-
-
 **General Skills:** APIs, Data Transformation, Data Analytics, Data Visualization, Web App Development
 **Specific Skills:** R (main libraries: shiny, dyplr, ggplot2, lubridate, tidygeocoder)
+**Background:** Once I had finished building SupplementalCalc, the LAMP agricultral team came to me with a request to build a third calculator that would output what percent of the year a greenhouse grower could expect to reach their target DLI given inputs describing a lighting system currently in place. 
+**Description:** With TargetCalc, users specify the capacity of their lighting system, and the calculator will estimate on how many days of the year you can reach your target DLI. The associated electricity costs and demand charge are estimated as well. This calculator is particularly useful for determining how well an existing lighting system meets your needs.
