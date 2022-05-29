@@ -31,13 +31,13 @@ These calculators (LightingCalc, SupplementalCalc, and TargetCalc) use a geoloca
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/LightingCalc)
 [![](https://img.shields.io/badge/YouTube-Watch_User_Walkthrough-FF0000?logo=YouTube)](https://youtu.be/eSmopYUls30)
 
-**Background:** When I started my assistantship,the two previous students who held this position over the last two years had developed LightingCalc. My first task was to tweak the UI and server code to display values at a weekly view as opposed to a monthly view and add in demand charges. After familiarizing myself with LightingCalc, I discovered that it was making an unrealistic assumption: growers want to provide enough supplemental light to reach their target DLI _every single day of the year_. Because of that unrealistic assumption, I decided not to calculate demand charges and begin working on two new calculators (SupplementalCalc and TargetCalc).
-
-**Description:** LightingCalc was created to determine how much electricity is required to reach the target DLI every single day of the year. To do so, a lighting system would need to be designed to provide enough light on even the darkest day of the year. On the Electricity Cost page, users will view a dashboard that calculates lighting costs at an annual, monthly, and weekly view.
-
 **General Skills:** APIs, Data Transformation, Data Analytics, Data Visualization, Web App Development
 
 **Specific Skills:** R (main libraries: shiny, dyplr, ggplot2, lubridate, tidygeocoder)
+
+**Background:** When I started my assistantship,the two previous students who held this position over the last two years had developed LightingCalc. My first task was to tweak the UI and server code to display values at a weekly view as opposed to a monthly view and add in demand charges. After familiarizing myself with LightingCalc, I discovered that it was making an unrealistic assumption: growers want to provide enough supplemental light to reach their target DLI _every single day of the year_. Because of that unrealistic assumption, I decided not to calculate demand charges and begin working on two new calculators (SupplementalCalc and TargetCalc).
+
+**Description:** LightingCalc was created to determine how much electricity is required to reach the target DLI every single day of the year. To do so, a lighting system would need to be designed to provide enough light on even the darkest day of the year. On the Electricity Cost page, users will view a dashboard that calculates lighting costs at an annual, monthly, and weekly view.
 
 
 ### SupplementalCalc
@@ -45,19 +45,24 @@ These calculators (LightingCalc, SupplementalCalc, and TargetCalc) use a geoloca
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/SupplementalCalc)
 [![](https://img.shields.io/badge/YouTube-Watch_User_Walkthrough-FF0000?logo=YouTube)](https://youtu.be/TTYsi2jaqUw)
 
+**General Skills:** APIs, Data Transformation, Data Analytics, Data Visualization, Interactive Web App Development
+
+**Specific Skills:** R (main libraries: shiny, dyplr, ggplot2, lubridate, tidygeocoder)
+
 **Background:** After realizing the unrealistic assumption made in LightingCalc, I set out to build a new calculator that relaxed that assumption. The result was a web application that allows a user to specify what percent of the year they'd like to reach their target DLI and how many hours they light their greenhouse. I also rebuilt the dashboard to calculate demand charges and visualize a scatterplot of the amount of sunlight coming into the greenhouse and how much supplemental light is needed.
 
-**Description:** SupplementalCalc was created to determine how much electricity is required to reach the target DLI given what percent of the year the user wants to reach that target and how many hours their lights are on per day. On the Electricity Cost page, users will view a dashboard that calculates lighting costs at an annual, monthly, and weekly view. The page components are dynamic and change to the user's mouse click on the scatterplot, which represents changing the percentile of days. 
-
-**General Skills:** APIs, Data Transformation, Data Analytics, Data Visualization, Interactive Web App Development
-**Specific Skills:** R (main libraries: shiny, dyplr, ggplot2, lubridate, tidygeocoder)
+**Description:** SupplementalCalc was created to determine how much electricity is required to reach the target DLI given what percent of the year the user wants to reach that target and how many hours their lights are on per day. On the Electricity Cost page, users will view a dashboard that calculates lighting costs at an annual, monthly, and weekly view. The page components are dynamic and change to the user's mouse click on the scatterplot, which represents changing the percentile of days and makes this the most advanced calculator of the three.
 
 
 ### TargetCalc
 [![](https://img.shields.io/badge/ShinyApps.io-Open_Web_App-3686d3?logo=r)](https://uga-lighting-calc.shinyapps.io/TargetCalc/)
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/TargetCalc)
 [![](https://img.shields.io/badge/YouTube-Watch_User_Walkthrough-FF0000?logo=YouTube)](https://youtu.be/0VDcWBuC4rY)
+
 **General Skills:** APIs, Data Transformation, Data Analytics, Data Visualization, Web App Development
+
 **Specific Skills:** R (main libraries: shiny, dyplr, ggplot2, lubridate, tidygeocoder)
+
 **Background:** Once I had finished building SupplementalCalc, the LAMP agricultral team came to me with a request to build a third calculator that would output what percent of the year a greenhouse grower could expect to reach their target DLI given inputs describing a lighting system currently in place. 
+
 **Description:** With TargetCalc, users specify the capacity of their lighting system, and the calculator will estimate on how many days of the year you can reach your target DLI. The associated electricity costs and demand charge are estimated as well. This calculator is particularly useful for determining how well an existing lighting system meets your needs.
