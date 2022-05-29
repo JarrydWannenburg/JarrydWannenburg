@@ -4,6 +4,21 @@ Hi! I'm Jarryd. I recently graduated from the University of Georgia (2018-2022) 
 # Portfolio Directory
 A repository consisting of work completed through my part time graduate assistantship, personal projects, and online courses. These projects will primarily be in R and Python though visualization may be done using Tableau, Data Studio, or PowerBI.
 
+## Data Analytics Portfolio
+
+### Google Data Analytics Capstone 1
+[![](https://img.shields.io/badge/ShinyApps.io-Open_Presentation-3686d3?logo=r)](https://uga-lighting-calc.shinyapps.io/TargetCalc/)
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/TargetCalc)
+
+**Background:**
+
+
+
+### Google Data Analytics Capstone 2
+
+
+## Data Science Portfolio
+
 ## Web Application Development Portfolio
 During my time in grad school, I held a position with the MIS department at the Terry School of Business and built out several web applications (some of which have been made public and are available below).
 
@@ -50,19 +65,3 @@ These calculators (LightingCalc, SupplementalCalc, and TargetCalc) use a geoloca
 
 **General Skills:** APIs, Data Transformation, Data Analytics, Data Visualization, Web App Development
 **Specific Skills:** R (main libraries: shiny, dyplr, ggplot2, lubridate, tidygeocoder)
-
-
-## Data Analytics Portfolio
-
-### Google Data Analytics Capstone 1
-[![](https://img.shields.io/badge/ShinyApps.io-Open_Presentation-3686d3?logo=r)](https://uga-lighting-calc.shinyapps.io/TargetCalc/)
-[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/TargetCalc)
-
-**Background:**
-
-
-
-### Google Data Analytics Capstone 2
-
-
-## Data Science Portfolio
