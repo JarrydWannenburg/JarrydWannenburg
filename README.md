@@ -41,7 +41,7 @@ A repository consisting of work completed through my part time graduate assistan
 
 
 ## Web Application Development
-During my time in grad school, I held a position with the MIS department at the Terry School of Business and built out several web applications (some of which have been made public and are available below).
+During my time in grad school (August 2021 - May 2022), I held a part-time solo developer position with the MIS department at the Terry School of Business and built out several web applications which are accessible below.
 
 These web applications were developed for greenhouse growers as part of [Project LAMP](https://www.hortlamp.org/outreach/determine-lighting/), lighting approaches to maximize profits. Our goal is to maximize controlled environment agriculture (CEA) grower profits through improved lighting systems and support tools.
 
