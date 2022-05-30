@@ -14,6 +14,8 @@ A repository consisting of work completed through my part time graduate assistan
     * [LightingCalc](https://github.com/JarrydWannenburg#lightingcalc)
     * [SupplementalCalc](https://github.com/JarrydWannenburg#supplementalcalc)
     * [TargetCalc](https://github.com/JarrydWannenburg#targetcalc)
+    * SolarPanelEstimator_one
+    * SolarPanelEstimator_multi
 
 ## Data Analytics
 ### Google Data Analytics Capstone 1 (in progress)
@@ -43,10 +45,12 @@ During my time in grad school, I held a position with the MIS department at the 
 
 These web applications were developed for greenhouse growers as part of [Project LAMP](https://www.hortlamp.org/outreach/determine-lighting/), lighting approaches to maximize profits. Our goal is to maximize controlled environment agriculture (CEA) grower profits through improved lighting systems and support tools.
 
-These calculators (LightingCalc, SupplementalCalc, and TargetCalc) use a geolocation API to transform a user inputted zipcode to latitude and longitude which is then passed to the TMY API to retrieve location specific weather data. The core idea behind the calculators is this: plants require light to grow. There's an optimal (target) amount of light that a plant can receive over the course of the day (Target DLI). These calculators all focus on the target DLI, but they do so in different ways:
+These calculators (LightingCalc, SupplementalCalc, and TargetCalc) use a geolocation API to transform a user inputted zipcode to latitude and longitude which is then passed to the TMY API to retrieve location specific weather data. The core idea behind the calculators is this: plants require light to grow. There's an optimal (target) amount of light that a plant can receive over the course of the day (Target DLI). These calculators all focus on the target DLI, but they do so in different ways.
+
+To use this web-based tool, you can add a location anywhere in the US and provide your electricity rate at that location ($/kWh). Add the daily light integral (DLI) you want to achieve and a greenhouse design to get estimated electricity cost results:
 
 ### LightingCalc
-[![](https://img.shields.io/badge/ShinyApps.io-Open_Web_App-3686d3?logo=r)](https://uga-lighting-calc.shinyapps.io/lightingcalc/)
+[![](https://img.shields.io/badge/ShinyApps.io-Open_Web_App-3686d3?logo=r)](https://3dcxni-jarryd-wannenburg.shinyapps.io/LightingCalc/)
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/LightingCalc)
 [![](https://img.shields.io/badge/YouTube-Watch_User_Walkthrough-FF0000?logo=YouTube)](https://youtu.be/eSmopYUls30)
 
@@ -60,7 +64,7 @@ These calculators (LightingCalc, SupplementalCalc, and TargetCalc) use a geoloca
 
 
 ### SupplementalCalc
-[![](https://img.shields.io/badge/ShinyApps.io-Open_Web_App-3686d3?logo=r)](https://uga-lighting-calc.shinyapps.io/supplementalcalc/) 
+[![](https://img.shields.io/badge/ShinyApps.io-Open_Web_App-3686d3?logo=r)](https://3dcxni-jarryd-wannenburg.shinyapps.io/SupplementalCalc/) 
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/SupplementalCalc)
 [![](https://img.shields.io/badge/YouTube-Watch_User_Walkthrough-FF0000?logo=YouTube)](https://youtu.be/TTYsi2jaqUw)
 
@@ -74,7 +78,7 @@ These calculators (LightingCalc, SupplementalCalc, and TargetCalc) use a geoloca
 
 
 ### TargetCalc
-[![](https://img.shields.io/badge/ShinyApps.io-Open_Web_App-3686d3?logo=r)](https://uga-lighting-calc.shinyapps.io/TargetCalc/)
+[![](https://img.shields.io/badge/ShinyApps.io-Open_Web_App-3686d3?logo=r)](https://3dcxni-jarryd-wannenburg.shinyapps.io/TargetCalc/)
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/TargetCalc)
 [![](https://img.shields.io/badge/YouTube-Watch_User_Walkthrough-FF0000?logo=YouTube)](https://youtu.be/0VDcWBuC4rY)
 
@@ -85,3 +89,17 @@ These calculators (LightingCalc, SupplementalCalc, and TargetCalc) use a geoloca
 **Background:** Once I had finished building SupplementalCalc, the LAMP agricultral team came to me with a request to build a third calculator that would output what percent of the year a greenhouse grower could expect to reach their target DLI given inputs describing a lighting system currently in place. 
 
 **Description:** With TargetCalc, users specify the capacity of their lighting system, and the calculator will estimate on how many days of the year you can reach your target DLI. The associated electricity costs and demand charge are estimated as well. This calculator is particularly useful for determining how well an existing lighting system meets your needs.
+
+
+### SolarPanelEstimator_one
+[![](https://img.shields.io/badge/ShinyApps.io-Open_Web_App-3686d3?logo=r)](https://3dcxni-jarryd-wannenburg.shinyapps.io/SolarPanelEstimator_one/)
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/SolarPanelEstimator_one)
+[![](https://img.shields.io/badge/YouTube-Watch_User_Walkthrough-FF0000?logo=YouTube)]()
+
+**Concepts:** APIs, Data Transformation, Data Analytics, Data Visualization, Web App Development
+
+**Skills:** R (shiny, dyplr, ggplot2, lubridate, tidygeocoder)
+
+**Background:** After completing the previous three calculators, I still had a few months until graduation, so I was asked to try build a solar panel estimator that optimizes the number of panels to install by minimizing the total cost, which breaks down into capital cost, installation cost, and grid purchase costs. The first attempt produced the SolarPanelEstimator_one
+
+**Description:** With this estimator, users specify details of a solar panel system, and the calculator will estimate the optimal number of panels to install by minimizing the electricity cost for a given location. The single period optimization doesn't recognize rising costs when optimizing, which led to the creation of the multi period version of this calculator. The associated grid purchase costs and generated electricity are estimated as well. This calculator is useful when looking to install a solar system, but users should default to the multi period version.
