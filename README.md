@@ -14,8 +14,8 @@ A repository consisting of work completed through my part time graduate assistan
     * [LightingCalc](https://github.com/JarrydWannenburg#lightingcalc)
     * [SupplementalCalc](https://github.com/JarrydWannenburg#supplementalcalc)
     * [TargetCalc](https://github.com/JarrydWannenburg#targetcalc)
-    * SolarPanelEstimator_one
-    * SolarPanelEstimator_multi
+    * [SolarPanelEstimator_one](https://github.com/JarrydWannenburg/JarrydWannenburg/blob/main/README.md#solarpanelestimator_one)
+    * [SolarPanelEstimator_multi](https://github.com/JarrydWannenburg/JarrydWannenburg/blob/main/README.md#solarpanelestimator_multi)
 
 ## Data Analytics
 ### Google Data Analytics Capstone 1 (in progress)
@@ -100,6 +100,20 @@ To use this web-based tool, you can add a location anywhere in the US and provid
 
 **Skills:** R (shiny, dyplr, ggplot2, lubridate, tidygeocoder)
 
-**Background:** After completing the previous three calculators, I still had a few months until graduation, so I was asked to try build a solar panel estimator that optimizes the number of panels to install by minimizing the total cost, which breaks down into capital cost, installation cost, and grid purchase costs. The first attempt produced the SolarPanelEstimator_one
+**Background:** After completing the previous three calculators, I still had a few months until graduation, so I was asked to try build a solar panel estimator that optimizes the number of panels to install by minimizing the total cost, which breaks down into capital cost, installation cost, and grid purchase costs. The first attempt produced the SolarPanelEstimator_one. _This version of the estimator is what I had finished by the end of my assistantship (May 2022), so a few bugs remain_.
 
 **Description:** With this estimator, users specify details of a solar panel system, and the calculator will estimate the optimal number of panels to install by minimizing the electricity cost for a given location. The single period optimization doesn't recognize rising costs when optimizing, which led to the creation of the multi period version of this calculator. The associated grid purchase costs and generated electricity are estimated as well. This calculator is useful when looking to install a solar system, but users should default to the multi period version.
+
+
+### SolarPanelEstimator_multi
+[![](https://img.shields.io/badge/ShinyApps.io-Open_Web_App-3686d3?logo=r)](https://3dcxni-jarryd-wannenburg.shinyapps.io/SolarPanelEstimator_multi/)
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/SolarPanelEstimator_multi)
+[![](https://img.shields.io/badge/YouTube-Watch_User_Walkthrough-FF0000?logo=YouTube)]()
+
+**Concepts:** APIs, Data Transformation, Data Analytics, Data Visualization, Web App Development
+
+**Skills:** R (shiny, dyplr, ggplot2, lubridate, tidygeocoder)
+
+**Background:** The second attempt at minimizing cost (capital cost + installation cost + grid purchase cost) approached the problem with multi period integer optimizations, producing the SolarPanelEstimator_multi. A cost effective interpretation of the results of this estimator would be to install the framework for the optimal number of panels in the first period. Then, as the estimator adds panels to the calculation, panels should be purchased and added to the existing framework to reduce installation costs. _This version of the estimator is what I had finished by the end of my assistantship (May 2022), so a few bugs remain_.
+
+**Description:** With this estimator, users can specify detailed information of a solar panel system of interest or use default values provided by the National Renewable Energy Laboratory (NREL). After entering information specific to the solar panels and selecting the preferred datasource, the estimator will provide a breakdown of energy costs and outputs expected by using these solar panels. This estimator also estimates the optimal number of panels needed to meet a user's specified annual energy demand. This estimator is particularly useful for the design of new solar panel installations. 
