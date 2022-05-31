@@ -9,7 +9,7 @@ A repository consisting of work completed through my part time graduate assistan
 * [Data Analytics](https://github.com/JarrydWannenburg#data-analytics)
     * [Google Data Analytics Capstone 1](https://github.com/JarrydWannenburg#google-data-analytics-capstone-1)
 * [Data Science](https://github.com/JarrydWannenburg#data-science)
-    * [Project Coming soon](https://github.com/JarrydWannenburg#ds-project-1)
+    * [Microsoft: ML For Beginners](https://github.com/JarrydWannenburg#Microsoft:-ML-For-Beginners-(in-progress))
 * [Web Application Development](https://github.com/JarrydWannenburg#web-application-development)
     * [LightingCalc](https://github.com/JarrydWannenburg#lightingcalc)
     * [SupplementalCalc](https://github.com/JarrydWannenburg#supplementalcalc)
@@ -31,7 +31,7 @@ A repository consisting of work completed through my part time graduate assistan
 
 
 ## Data Science
-### Microsft: ML-For-Beginners (in progress)
+### Microsoft: ML-For-Beginners (in progress)
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/ML-For-Beginners)
 
 **Concepts:**
