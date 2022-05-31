@@ -31,14 +31,15 @@ A repository consisting of work completed through my part time graduate assistan
 
 
 ## Data Science
-### DS Project 1
+### Microsft: ML-For-Beginners (in progress)
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/ML-For-Beginners)
 
 **Concepts:**
 
 **Skills:**
 
 **Description:**
-
+"Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 26-lesson curriculum all about Machine Learning. In this curriculum, you will learn about what is sometimes called classic machine learning, using primarily Scikit-learn as a library and avoiding deep learning."
 
 ## Web Application Development
 During my time in grad school (August 2021 - May 2022), I held a part-time solo developer position with the MIS department at the Terry School of Business and built out several web applications which are accessible below.
