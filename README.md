@@ -23,7 +23,7 @@ A repository consisting of work completed through my part time graduate assistan
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/Divvy-Trip-Data-Google-Analytics-Capstone)
 [![](https://img.shields.io/badge/YouTube-Watch_Presentation-FF0000?logo=YouTube)]()
 
-**Concepts:** Data Analytics, Data Visualization, Big Data
+**Concepts:** Data Analytics, Data Visualization, Data Transformation
 
 **Skills:** R (tidyr, dyplr, ggplot2, lubridate), Tableau, Powerpoint
 
