@@ -9,7 +9,8 @@ A repository consisting of work completed through my part time graduate assistan
 * [Data Analytics](https://github.com/JarrydWannenburg#data-analytics)
     * [Google Data Analytics Capstone 1](https://github.com/JarrydWannenburg#google-data-analytics-capstone-1)
 * [Data Science](https://github.com/JarrydWannenburg#data-science)
-    * [Microsoft: ML For Beginners](https://github.com/JarrydWannenburg#Microsoft:-ML-For-Beginners-(in-progress))
+* [Microsoft: ML For Beginners](https://github.com/JarrydWannenburg#Microsoft:-ML-For-Beginners-(in-progress))
+    * [Doggy Shoes](https://github.com/JarrydWannenburg#Doggy-Shoes)
 * [Web Application Development](https://github.com/JarrydWannenburg#web-application-development)
     * [LightingCalc](https://github.com/JarrydWannenburg#lightingcalc)
     * [SupplementalCalc](https://github.com/JarrydWannenburg#supplementalcalc)
@@ -31,7 +32,7 @@ A repository consisting of work completed through my part time graduate assistan
 
 
 ## Data Science
-### Microsoft: ML-For-Beginners (in progress)
+## Microsoft: ML-For-Beginners (in progress)
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/ML-For-Beginners)
 
 **Concepts:**
@@ -40,6 +41,16 @@ A repository consisting of work completed through my part time graduate assistan
 
 **Description:**
 "Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 26-lesson curriculum all about Machine Learning. In this curriculum, you will learn about what is sometimes called classic machine learning, using primarily Scikit-learn as a library and avoiding deep learning."
+
+### Doggy Shoes
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/Doggy-Shoes)
+
+**Concepts:** Machine Learning
+
+**Skills:** Python
+
+**Description:**
+Build a machine learning model to estimate doggy shoe size from a given harness size
 
 ## Web Application Development
 During my time in grad school (August 2021 - May 2022), I held a part-time solo developer position with the MIS department at the Terry School of Business and built out several web applications which are accessible below.
