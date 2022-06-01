@@ -55,13 +55,14 @@ A repository consisting of work completed through part-time work, personal proje
 
 ### Doggy Shoes
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/Doggy-Shoes)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tRaS8DhK9yJH3oqBQzw87_NnFeKsWz4h?usp=sharing)
 
-**Concepts:** Machine Learning
+**Concepts:** Machine Learning, Linear Regression
 
-**Skills:** Python
+**Skills:** Python (pandas, statsmodels)
 
 **Description:**
-Build a machine learning model to estimate doggy shoe size from a given harness size
+Build a machine learning model (using OLS) to estimate doggy shoe size from a given harness size and other features.
 
 ## Web Application Development
 During my time in grad school (August 2021 - May 2022), I held a part-time solo developer position with the MIS department at the Terry School of Business and built out several web applications which are accessible below.
@@ -128,7 +129,7 @@ To use this web-based tool, you can add a location anywhere in the US and provid
 **Description:** With this estimator, users specify details of a solar panel system, and the calculator will estimate the optimal number of panels to install by minimizing the electricity cost for a given location. The single period optimization doesn't recognize rising costs when optimizing, which led to the creation of the multi period version of this calculator. The associated grid purchase costs and generated electricity are estimated as well. This calculator is useful when looking to install a solar system, but users should default to the multi period version.
 
 
-### SolarPanelEstimator_multi
+### SolarPanelEstimator_multi 
 [![](https://img.shields.io/badge/ShinyApps.io-Open_Web_App-3686d3?logo=r)](https://3dcxni-jarryd-wannenburg.shinyapps.io/SolarPanelEstimator_multi/)
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/SolarPanelEstimator_multi)
 [![](https://img.shields.io/badge/YouTube-Watch_User_Walkthrough-FF0000?logo=YouTube)]()
