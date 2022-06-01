@@ -5,10 +5,11 @@ Hi! I'm Jarryd. I recently graduated from the University of Georgia (2018-2022) 
 Within the next 5 years (2027), I want to have built a comprehensive portfolio of projects, completed my MBA, and be leading teams focused on driving decisions using data! Wish me luck!
 
 # Portfolio Directory
-A repository consisting of work completed through my part time graduate assistantship, personal projects, and online courses. These projects will primarily be in R and Python though visualization may be done using Tableau, Data Studio, or PowerBI.
+A repository consisting of work completed through part-time work, personal projects, and online courses. These projects will primarily be in R and Python though visualization may be done using Tableau, Data Studio, or PowerBI.
 * [Data Analytics](https://github.com/JarrydWannenburg#data-analytics)
     * [Google Data Analytics Capstone 1](https://github.com/JarrydWannenburg#google-data-analytics-capstone-1)
 * [Data Science](https://github.com/JarrydWannenburg#data-science)
+    * [Project Pending](https://github.com/JarrydWannenburg#Project-Pending)
 * [Microsoft: ML For Beginners](https://github.com/JarrydWannenburg#Microsoft:-ML-For-Beginners-(in-progress))
     * [Doggy Shoes](https://github.com/JarrydWannenburg#Doggy-Shoes)
 * [Web Application Development](https://github.com/JarrydWannenburg#web-application-development)
@@ -32,6 +33,16 @@ A repository consisting of work completed through my part time graduate assistan
 
 
 ## Data Science
+### Project Pending
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)]()
+[![](https://img.shields.io/badge/YouTube-Watch_Presentation-FF0000?logo=YouTube)]()
+
+**Concepts:** 
+
+**Skills:**
+
+**Description:**
+
 ## Microsoft: ML-For-Beginners (in progress)
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/ML-For-Beginners)
 
