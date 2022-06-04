@@ -18,7 +18,7 @@ A repository consisting of work completed through part-time work, personal proje
     * [SolarPanelEstimator_multi](https://github.com/JarrydWannenburg/JarrydWannenburg/blob/main/README.md#solarpanelestimator_multi)
 
 ## Data Analytics
-### Google Data Analytics Capstone 1 (in progress)
+### Google Data Analytics Capstone 1
 [![](https://img.shields.io/badge/GitHub-Read_Report-4285F4?logo=GitHub)](https://github.com/JarrydWannenburg/Divvy-Trip-Data-Google-Analytics-Capstone/blob/main/Report.md)
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/Divvy-Trip-Data-Google-Analytics-Capstone)
 [![](https://img.shields.io/badge/YouTube-Watch_Presentation-FF0000?logo=YouTube)]()
