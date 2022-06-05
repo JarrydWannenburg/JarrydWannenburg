@@ -9,6 +9,7 @@ A repository consisting of work completed through part-time work, personal proje
 * [Data Analytics](https://github.com/JarrydWannenburg#data-analytics)
     * [Google Data Analytics Capstone 1](https://github.com/JarrydWannenburg#google-data-analytics-capstone-1)
 * [Data Science](https://github.com/JarrydWannenburg#data-science)
+    * [FairLearn](https://github.com/JarrydWannenburg#)
     * [Doggy Shoes](https://github.com/JarrydWannenburg#Doggy-Shoes)
 * [Web Application Development](https://github.com/JarrydWannenburg#web-application-development)
     * [LightingCalc](https://github.com/JarrydWannenburg#lightingcalc)
@@ -31,6 +32,11 @@ A repository consisting of work completed through part-time work, personal proje
 
 
 ## Data Science
+### Fairlearn
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/Fairlearn)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tRaS8DhK9yJH3oqBQzw87_NnFeKsWz4h?usp=sharing)
+[![](https://img.shields.io/badge/YouTube-Watch_Presentation-FF0000?logo=YouTube)]()
+
 ### Doggy Shoes
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/Doggy-Shoes)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tRaS8DhK9yJH3oqBQzw87_NnFeKsWz4h?usp=sharing)
