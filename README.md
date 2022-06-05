@@ -9,7 +9,7 @@ A repository consisting of work completed through part-time work, personal proje
 * [Data Analytics](https://github.com/JarrydWannenburg#data-analytics)
     * [Google Data Analytics Capstone 1](https://github.com/JarrydWannenburg#google-data-analytics-capstone-1)
 * [Data Science](https://github.com/JarrydWannenburg#data-science)
-    * [FairLearn](https://github.com/JarrydWannenburg#)
+    * [Fairlearn](https://github.com/JarrydWannenburg#Fairlearn)
     * [Doggy Shoes](https://github.com/JarrydWannenburg#Doggy-Shoes)
 * [Web Application Development](https://github.com/JarrydWannenburg#web-application-development)
     * [LightingCalc](https://github.com/JarrydWannenburg#lightingcalc)
@@ -34,8 +34,14 @@ A repository consisting of work completed through part-time work, personal proje
 ## Data Science
 ### Fairlearn
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/Fairlearn)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tRaS8DhK9yJH3oqBQzw87_NnFeKsWz4h?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 [![](https://img.shields.io/badge/YouTube-Watch_Presentation-FF0000?logo=YouTube)]()
+
+Concepts: Machine Learning, Decision Tree Classification, ML Fairness
+
+Skills: Python (fairlearn, sklearn, matplotlib, seaborn)
+
+Description: Exploration of fairlearn package through a case study of loan approval classification using decision trees.
 
 ### Doggy Shoes
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/Doggy-Shoes)
@@ -43,10 +49,11 @@ A repository consisting of work completed through part-time work, personal proje
 
 **Concepts:** Machine Learning, Linear Regression
 
-**Skills:** Python (pandas, statsmodels)
+**Skills:** Python (fairlearn, )
 
 **Description:**
 Build a machine learning model (using OLS) to estimate doggy shoe size from a given harness size and other features.
+
 
 ## Web Application Development
 During my time in grad school (August 2021 - May 2022), I held a part-time solo developer position with the MIS department at the Terry School of Business and built out several web applications which are accessible below.
