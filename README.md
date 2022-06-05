@@ -49,7 +49,7 @@ Description: Exploration of fairlearn package through a case study of loan appro
 
 **Concepts:** Machine Learning, Linear Regression
 
-**Skills:** Python (fairlearn, )
+**Skills:** Python (pandas, statsmodels)
 
 **Description:**
 Build a machine learning model (using OLS) to estimate doggy shoe size from a given harness size and other features.
