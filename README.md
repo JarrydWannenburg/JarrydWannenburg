@@ -1,4 +1,4 @@
-# Introduction (NOTE: Portfolio is currently under construction)
+# Introduction
 Hi! I'm Jarryd. I recently graduated from the University of Georgia (2018-2022) with a certificate in Financial Technologies, a BBA in Management Information Systems (MIS) with an emphasis in Data Analytics, and a MS in Business Analytics. Starting September 2022, I'll be working with EY as a Financial Services Technology Consultant. 
 
 ## Personal Goal
@@ -7,7 +7,7 @@ Within the next 5 years (2027), I want to have built a comprehensive portfolio o
 # Portfolio Directory
 A repository consisting of work completed through part-time work, personal projects, and online courses. These projects will primarily be in R and Python though visualization may be done using Tableau, Data Studio, or PowerBI.
 * [Data Analytics](https://github.com/JarrydWannenburg#data-analytics)
-    * [Google Data Analytics Capstone 1](https://github.com/JarrydWannenburg#google-data-analytics-capstone-1)
+    * [Bike Sharing](https://github.com/JarrydWannenburg#bike-sharing)
 * [Data Science](https://github.com/JarrydWannenburg#data-science)
     * [Fairlearn](https://github.com/JarrydWannenburg#Fairlearn)
     * [Doggy Shoes](https://github.com/JarrydWannenburg#Doggy-Shoes)
@@ -19,23 +19,23 @@ A repository consisting of work completed through part-time work, personal proje
     * [SolarPanelEstimator_multi](https://github.com/JarrydWannenburg/JarrydWannenburg/blob/main/README.md#solarpanelestimator_multi)
 
 ## Data Analytics
-### Google Data Analytics Capstone 1
+### Bike Sharing
 [![](https://img.shields.io/badge/GitHub-Read_Report-4285F4?logo=GitHub)](https://github.com/JarrydWannenburg/Divvy-Trip-Data-Google-Analytics-Capstone/blob/main/Report.md)
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/Divvy-Trip-Data-Google-Analytics-Capstone)
-[![](https://img.shields.io/badge/YouTube-Watch_Presentation-FF0000?logo=YouTube)]()
+[![](https://img.shields.io/badge/YouTube-Coming_Soon!-FF0000?logo=YouTube)]()
 
 **Concepts:** Data Analytics, Data Visualization, Data Transformation
 
 **Skills:** R (tidyr, dyplr, ggplot2, lubridate), Tableau, Powerpoint
 
-**Description:** In this case study, I used bike sharing data spanning the last 12 months in Chicago to analyze and differentiate two user plans. I was then able to develop a series of visuals and recommendations based on those findings.
+**Description:** For my Google Data Analytics Specialization capstone, I used bike sharing data spanning the last 12 months in Chicago to analyze and differentiate two user plans. I was then able to develop a series of visuals and recommendations based on those findings.
 
 
 ## Data Science
 ### Fairlearn
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/Fairlearn)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
-[![](https://img.shields.io/badge/YouTube-Watch_Presentation-FF0000?logo=YouTube)]()
+[![](https://img.shields.io/badge/YouTube-Coming_Soon!-FF0000?logo=YouTube)]()
 
 **Concepts:** Machine Learning, Decision Tree Classification, ML Fairness
 
@@ -65,8 +65,8 @@ These calculators (LightingCalc, SupplementalCalc, and TargetCalc) use a geoloca
 To use this web-based tool, you can add a location anywhere in the US and provide your electricity rate at that location ($/kWh). Add the daily light integral (DLI) you want to achieve and a greenhouse design to get estimated electricity cost results:
 
 ### LightingCalc
-[![](https://img.shields.io/badge/ShinyApps.io-Open_Web_App-3686d3?logo=r)](https://3dcxni-jarryd-wannenburg.shinyapps.io/LightingCalc/)
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/LightingCalc)
+[![](https://img.shields.io/badge/ShinyApps.io-Open_Web_App-3686d3?logo=r)](https://3dcxni-jarryd-wannenburg.shinyapps.io/LightingCalc/)
 [![](https://img.shields.io/badge/YouTube-Watch_User_Walkthrough-FF0000?logo=YouTube)](https://youtu.be/eSmopYUls30)
 
 **Concepts:** APIs, Data Transformation, Data Analytics, Data Visualization, Web App Development
@@ -79,8 +79,8 @@ To use this web-based tool, you can add a location anywhere in the US and provid
 
 
 ### SupplementalCalc
-[![](https://img.shields.io/badge/ShinyApps.io-Open_Web_App-3686d3?logo=r)](https://3dcxni-jarryd-wannenburg.shinyapps.io/SupplementalCalc/) 
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/SupplementalCalc)
+[![](https://img.shields.io/badge/ShinyApps.io-Open_Web_App-3686d3?logo=r)](https://3dcxni-jarryd-wannenburg.shinyapps.io/SupplementalCalc/) 
 [![](https://img.shields.io/badge/YouTube-Watch_User_Walkthrough-FF0000?logo=YouTube)](https://youtu.be/TTYsi2jaqUw)
 
 **Concepts:** APIs, Data Transformation, Data Analytics, Data Visualization, Interactive Web App Development
@@ -93,8 +93,8 @@ To use this web-based tool, you can add a location anywhere in the US and provid
 
 
 ### TargetCalc
-[![](https://img.shields.io/badge/ShinyApps.io-Open_Web_App-3686d3?logo=r)](https://3dcxni-jarryd-wannenburg.shinyapps.io/TargetCalc/)
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/TargetCalc)
+[![](https://img.shields.io/badge/ShinyApps.io-Open_Web_App-3686d3?logo=r)](https://3dcxni-jarryd-wannenburg.shinyapps.io/TargetCalc/)
 [![](https://img.shields.io/badge/YouTube-Watch_User_Walkthrough-FF0000?logo=YouTube)](https://youtu.be/0VDcWBuC4rY)
 
 **Concepts:** APIs, Data Transformation, Data Analytics, Data Visualization, Web App Development
@@ -107,8 +107,8 @@ To use this web-based tool, you can add a location anywhere in the US and provid
 
 
 ### SolarPanelEstimator_one
-[![](https://img.shields.io/badge/ShinyApps.io-Open_Web_App-3686d3?logo=r)](https://3dcxni-jarryd-wannenburg.shinyapps.io/SolarPanelEstimator_one/)
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/SolarPanelEstimator_one)
+[![](https://img.shields.io/badge/ShinyApps.io-Open_Web_App-3686d3?logo=r)](https://3dcxni-jarryd-wannenburg.shinyapps.io/SolarPanelEstimator_one/)
 [![](https://img.shields.io/badge/YouTube-Watch_User_Walkthrough-FF0000?logo=YouTube)]()
 
 **Concepts:** APIs, Data Transformation, Data Analytics, Data Visualization, Web App Development
@@ -121,8 +121,8 @@ To use this web-based tool, you can add a location anywhere in the US and provid
 
 
 ### SolarPanelEstimator_multi 
-[![](https://img.shields.io/badge/ShinyApps.io-Open_Web_App-3686d3?logo=r)](https://3dcxni-jarryd-wannenburg.shinyapps.io/SolarPanelEstimator_multi/)
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/SolarPanelEstimator_multi)
+[![](https://img.shields.io/badge/ShinyApps.io-Open_Web_App-3686d3?logo=r)](https://3dcxni-jarryd-wannenburg.shinyapps.io/SolarPanelEstimator_multi/)
 [![](https://img.shields.io/badge/YouTube-Watch_User_Walkthrough-FF0000?logo=YouTube)]()
 
 **Concepts:** APIs, Data Transformation, Data Analytics, Data Visualization, Web App Development
