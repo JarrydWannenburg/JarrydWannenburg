@@ -20,8 +20,8 @@ A repository consisting of work completed through part-time work, personal proje
 
 ## Data Analytics
 ### Bike Sharing
-[![](https://img.shields.io/badge/GitHub-Read_Report-4285F4?logo=GitHub)](https://github.com/JarrydWannenburg/Divvy-Trip-Data-Google-Analytics-Capstone/blob/main/Report.md)
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/Divvy-Trip-Data-Google-Analytics-Capstone)
+[![](https://img.shields.io/badge/GitHub-Read_Report-4285F4?logo=GitHub)](https://github.com/JarrydWannenburg/Divvy-Trip-Data-Google-Analytics-Capstone/blob/main/Report.md)
 [![](https://img.shields.io/badge/YouTube-Coming_Soon!-FF0000?logo=YouTube)]()
 
 **Concepts:** Data Analytics, Data Visualization, Data Transformation
