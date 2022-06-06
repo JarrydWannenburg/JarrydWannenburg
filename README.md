@@ -37,11 +37,11 @@ A repository consisting of work completed through part-time work, personal proje
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 [![](https://img.shields.io/badge/YouTube-Watch_Presentation-FF0000?logo=YouTube)]()
 
-Concepts: Machine Learning, Decision Tree Classification, ML Fairness
+**Concepts:** Machine Learning, Decision Tree Classification, ML Fairness
 
-Skills: Python (fairlearn, sklearn, matplotlib, seaborn)
+**Skills:** Python (fairlearn, sklearn, matplotlib, seaborn)
 
-Description: Exploration of fairlearn package through a case study of loan approval classification using decision trees.
+**Description:** Exploration of fairlearn package through a case study of loan approval classification using decision trees.
 
 ### Doggy Shoes
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/Doggy-Shoes)
