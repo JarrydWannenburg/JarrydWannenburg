@@ -37,6 +37,8 @@ A repository consisting of work completed through part-time work, personal proje
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 [![](https://img.shields.io/badge/YouTube-Coming_Soon!-FF0000?logo=YouTube)]()
 
+**In Progress**
+
 **Concepts:** ML Fairness, Decision Tree Classification
 
 **Skills:** Python (fairlearn, sklearn, matplotlib, seaborn)
