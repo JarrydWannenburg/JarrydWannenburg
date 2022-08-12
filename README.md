@@ -9,6 +9,7 @@ A repository consisting of work completed through part-time work, personal proje
 * [Data Analytics](https://github.com/JarrydWannenburg#data-analytics)
     * [Bike Sharing](https://github.com/JarrydWannenburg#bike-sharing)
 * [Data Science](https://github.com/JarrydWannenburg#data-science)
+    * [House Prices](https://github.com/JarrydWannenburg#house-prices)
     * [Loan Approval](https://github.com/JarrydWannenburg#loan-approval)
     * [Doggy Shoes](https://github.com/JarrydWannenburg#Doggy-Shoes)
 * [Web Application Development](https://github.com/JarrydWannenburg#web-application-development)
@@ -32,6 +33,19 @@ A repository consisting of work completed through part-time work, personal proje
 
 
 ## Data Science
+### House Prices
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/Jarrydwannenburg)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![](https://img.shields.io/badge/YouTube-Coming_Soon!-FF0000?logo=YouTube)]()
+
+**In Progress**
+
+**Concepts:** ML Fairness, Decision Tree Classification
+
+**Skills:** Python (fairlearn, sklearn, matplotlib, seaborn)
+
+**Description:** Exploration of the fairlearn package through a case study of loan approval classification using decision trees. [Fairlearn](https://fairlearn.org/) is an open-source, community-driven project to help data scientists improve fairness of AI systems.
+
 ### Loan Approval
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/Fairlearn)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
