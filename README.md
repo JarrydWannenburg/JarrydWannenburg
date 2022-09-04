@@ -10,7 +10,7 @@ A repository consisting of work completed through part-time work, personal proje
     * [Bike Sharing](https://github.com/JarrydWannenburg#bike-sharing)
 * [Data Science](https://github.com/JarrydWannenburg#data-science)
     * [House Prices](https://github.com/JarrydWannenburg#house-prices)
-    * [Loan Approval](https://github.com/JarrydWannenburg#loan-approval)
+    * [Space Ship Titanic](https://github.com/JarrydWannenburg#space-ship-titanic---classification-techniques-kaggle-comp)
     * [Doggy Shoes](https://github.com/JarrydWannenburg#Doggy-Shoes)
 * [Web Application Development](https://github.com/JarrydWannenburg#web-application-development)
     * [LightingCalc](https://github.com/JarrydWannenburg#lightingcalc)
@@ -33,31 +33,28 @@ A repository consisting of work completed through part-time work, personal proje
 
 
 ## Data Science
-### House Prices
-[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/Jarrydwannenburg)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
-[![](https://img.shields.io/badge/YouTube-Coming_Soon!-FF0000?logo=YouTube)]()
+### House Prices - Advanced Regression Techniques (Kaggle Comp)
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/House_Prices_Adv_Reg)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1M6F74pvMFNs3iMmQNOGqph1NB9uXWC_-/view?usp=sharing)
 
-**In Progress**
+**Concepts:** Machine Learning, Regression Techniques, Pipelines and Cross Validation, PCA
 
-**Concepts:** ML Fairness, Decision Tree Classification
+**Skills:** Python (sklearn, pandas, matplotlib, altair, seaborn)
 
-**Skills:** Python (fairlearn, sklearn, matplotlib, seaborn)
+**Description:** An exploration of advanced regression techniques using housing data for a kaggle competition. Final version using sklearn pipelines to prevent data leakage between training and test sets. Model selection and hyperparam tuning performed via gridsearchCV. Overall,this was a really interesting first kaggle competition, and I learned a ton. 
 
-**Description:** Exploration of the fairlearn package through a case study of loan approval classification using decision trees. [Fairlearn](https://fairlearn.org/) is an open-source, community-driven project to help data scientists improve fairness of AI systems.
 
-### Loan Approval
-[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/Fairlearn)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
-[![](https://img.shields.io/badge/YouTube-Coming_Soon!-FF0000?logo=YouTube)]()
+### Space Ship Titanic - Classification Techniques (Kaggle Comp)
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/Space_Ship_Titanic)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dl6VFv3knjKZxOamiHLCWsRHEigQ-LFp)
+[![Open EDA In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Te0_1sN16Fjez3DSbNQQba8Pj4C8V6TT)
 
-**In Progress**
+**Concepts:** Machine Learning, Classification Techniques, Pipelines and Cross Validation
 
-**Concepts:** ML Fairness, Decision Tree Classification
+**Skills:** Python (sklearn, pandas, catboost, altair, seaborn)
 
-**Skills:** Python (fairlearn, sklearn, matplotlib, seaborn)
+**Description:** An exploration of classification techniques using titanic data for a kaggle competition. Final version using sklearn pipelines to prevent data leakage between training and test sets. Model selection and hyperparam tuning performed via gridsearchCV. First classification kaggle competition but won't be the last.
 
-**Description:** Exploration of the fairlearn package through a case study of loan approval classification using decision trees. [Fairlearn](https://fairlearn.org/) is an open-source, community-driven project to help data scientists improve fairness of AI systems.
 
 ### Doggy Shoes
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/Doggy-Shoes)
@@ -68,7 +65,7 @@ A repository consisting of work completed through part-time work, personal proje
 **Skills:** Python (pandas, statsmodels)
 
 **Description:**
-Build a machine learning model (using OLS) to estimate doggy shoe size from a given harness size and other features.
+Beginner levle: build a machine learning model (using OLS) to estimate doggy shoe size from a given harness size and other features.
 
 
 ## Web Application Development
