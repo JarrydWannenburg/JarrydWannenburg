@@ -8,6 +8,7 @@ Within the next 5 years (2027), I want to have built a comprehensive portfolio o
 A repository consisting of work completed through part-time work, personal projects, and online courses. These projects will primarily be in R and Python though visualization may be done using Tableau, Data Studio, or PowerBI.
 * [Data Analytics](https://github.com/JarrydWannenburg#data-analytics)
     * [Bike Sharing](https://github.com/JarrydWannenburg#bike-sharing)
+    * [Web Scraping and NLP](https://github.com/JarrydWannenburg#web-scraping-and-nlp)
 * [Data Science](https://github.com/JarrydWannenburg#data-science)
     * [House Prices](https://github.com/JarrydWannenburg#house-prices)
     * [Space Ship Titanic](https://github.com/JarrydWannenburg#space-ship-titanic---classification-techniques-kaggle-comp)
@@ -32,6 +33,17 @@ A repository consisting of work completed through part-time work, personal proje
 **Description:** For my Google Data Analytics Specialization capstone, I used bike sharing data spanning the last 12 months in Chicago to analyze and differentiate two user plans. I was then able to develop a series of visuals and recommendations based on those findings.
 
 
+### Web Scraping and NLP
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1M6F74pvMFNs3iMmQNOGqph1NB9uXWC_-/view?usp=sharing)
+[Medium Article](https://medium.com/@jarrydwannenburg/news-article-extraction-via-keywords-for-nlp-732f9571a09e)
+
+**Concepts:** Data Analytics, Natural Language Processing, Web Scraping
+
+**Skills:** Python (Newspaper3k, NewsAPI, spaCy, TextBlob)
+
+**Description:** An intro level view into NLP capabilities and wrangling unstructured data.
+
+
 ## Data Science
 ### House Prices - Advanced Regression Techniques (Kaggle Comp)
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/House_Prices_Adv_Reg)
@@ -46,6 +58,7 @@ A repository consisting of work completed through part-time work, personal proje
 
 ### Space Ship Titanic - Classification Techniques (Kaggle Comp)
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/Space_Ship_Titanic)
+[Medium Article](https://medium.com/@jarrydwannenburg/scalable-pipelines-using-sklearn-and-custom-transformations-complete-walkthrough-7c166ca8e802)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dl6VFv3knjKZxOamiHLCWsRHEigQ-LFp)
 [![Open EDA In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Te0_1sN16Fjez3DSbNQQba8Pj4C8V6TT)
 
