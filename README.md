@@ -58,9 +58,9 @@ A repository consisting of work completed through part-time work, personal proje
 
 ### Space Ship Titanic - Classification Techniques (Kaggle Comp)
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/JarrydWannenburg/Space_Ship_Titanic)
-[![](https://img.shields.io/badge/Medium-View_on_Medium-000000?logo=Medium)](https://medium.com/@jarrydwannenburg/scalable-pipelines-using-sklearn-and-custom-transformations-complete-walkthrough-7c166ca8e802)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dl6VFv3knjKZxOamiHLCWsRHEigQ-LFp)
 [![Open EDA In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Te0_1sN16Fjez3DSbNQQba8Pj4C8V6TT)
+[![](https://img.shields.io/badge/Medium-View_on_Medium-000000?logo=Medium)](https://medium.com/@jarrydwannenburg/scalable-pipelines-using-sklearn-and-custom-transformations-complete-walkthrough-7c166ca8e802)
 
 **Concepts:** Machine Learning, Classification Techniques, Pipelines and Cross Validation
 
