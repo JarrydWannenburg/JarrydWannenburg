@@ -51,7 +51,7 @@ A repository consisting of work completed through part-time work, personal proje
 
 **Concepts:** Machine Learning, Classification Techniques, Pipelines and Cross Validation
 
-**Skills:** Python (sklearn, pandas, catboost, altair, seaborn)
+**Skills:** Python (sklearn, pandas, classification, altair)
 
 **Description:** An exploration of classification techniques using titanic data for a kaggle competition. Final version using sklearn pipelines to prevent data leakage between training and test sets. Model selection and hyperparam tuning performed via gridsearchCV. First classification kaggle competition but won't be the last.
 
