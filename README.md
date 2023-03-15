@@ -1,9 +1,6 @@
 # Introduction
 Hi! I'm Jarryd. I recently graduated from the University of Georgia (2018-2022) with a MS in Business Analytics, a BBA in Management Information Systems (MIS) with an emphasis in Data Analytics, and a certificate in Financial Technologies. Starting September 2022, I'll be working with EY as a Financial Services Technology Consultant. 
 
-## Personal Goal
-Within the next 5 years (2027), I want to have built a comprehensive portfolio of projects, completed my MBA, and be leading teams focused on driving decisions using data! Wish me luck!
-
 # Portfolio Directory
 A repository consisting of work completed through part-time work, personal projects, and online courses. These projects will primarily be in R and Python though visualization may be done using Tableau, Data Studio, or PowerBI.
 * [Data Analytics](https://github.com/JarrydWannenburg#data-analytics)
